@@ -1,4 +1,4 @@
----------------------------------跳板机------------------------------
+i---------------------------------跳板机------------------------------
 配置 yum
 curl -o /etc/yum.repos.d/CentOS-Base.repo http://mirrors.myhuaweicloud.com/repo/CentOS-Base-7.repo
 
